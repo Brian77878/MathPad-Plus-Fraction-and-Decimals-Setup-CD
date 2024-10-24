@@ -1,0 +1,14 @@
+To view the PDF documents on this CD, you will need to use 
+Adobe® Acrobat® Reader.
+If you do not have this program installed, 
+open the program in this folder called "Acrobat Reader Installer" 
+and follow the steps for installation.
+
+Additional information regarding Acrobat Reader 
+can be obtained from the Adobe web site at:
+
+http://www.adobe.com
+
+or directly at
+
+http://www.adobe.com/products/acrobat/readstep2.html
